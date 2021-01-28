@@ -6,8 +6,6 @@
 <a href="https://github.com/g3nj1z/hacking-for-script-kiddies">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g3nj1z&repo=hacking-for-script-kiddies&show_icons=true&theme=tokyonight" alt="/hacking-for-script-kiddies" /a>
 
-<a href="https://github.com/g3nj1z/Awesome-Bugbounty-Writeups">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g3nj1z&repo=Awesome-Bugbounty-Writeups&show_icons=true&theme=tokyonight" alt="/Awesome-Bugbounty-Writeups" /a>
 
 
 
