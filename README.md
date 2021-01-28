@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![g3nj1z's GitHub stats](https://github-readme-stats.vercel.app/api?username=g3nj1z)](https://github.com/anuraghazra/github-readme-stats)
+
+![g3nj1z's GitHub stats](https://github-readme-stats.vercel.app/api?username=g3nj1z&show_icons=true)
