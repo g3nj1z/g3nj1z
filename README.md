@@ -1,4 +1,3 @@
-# HACKTHEBOX
 <h2 align="center"><img src="http://www.hackthebox.eu/badge/image/155658" alt="Hack The Box"></h2>
 
 <a href="https://github.com/g3nj1z/g3nj1z">
