@@ -1,5 +1,5 @@
 <h2 align="center"><img src="http://www.hackthebox.eu/badge/image/155658" alt="Hack The Box"></h2>
-<h2 align="center"><img src="ttps://tryhackme.com/badge/18663" alt="TryHackMe"></h2>
+<img src="https://tryhackme-badges.s3.amazonaws.com/G3NJ1z.png" alt="TryHackMe">
 
 
 <a href="https://github.com/g3nj1z/g3nj1z">
