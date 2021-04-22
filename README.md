@@ -8,8 +8,6 @@
 
 <a href="https://github.com/g3nj1z/g3nj1z">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=g3nj1z&show_icons=true&theme=tokyonight" alt="g3nj1z's github stats" />
-  
-  <img src="genjiz.gif" />
 
 
 
